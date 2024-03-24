@@ -1,2 +1,2 @@
 # react_canvas_prac
-reactでcanvas上の要素をマウスで操作をするサンプル
+reactでSVG要素をマウスで操作をするサンプル
